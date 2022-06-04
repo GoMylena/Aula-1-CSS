@@ -1,0 +1,17 @@
+body {
+	background-color:#836FFF; 
+	background-image: url(bax.jpg);
+	background-repeat-y:
+	background-position: center;
+}
+h1{
+font-family: Arial;
+font-size: 100px;
+color: black;
+background: blue
+border-radius:100px; 
+}
+p{
+	background-color: #E6E6FA;
+	border-radius: 80px;
+}
